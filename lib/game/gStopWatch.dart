@@ -63,7 +63,7 @@ class _StopWatchState extends State<StopWatch> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Stop Watch Game')),
+      appBar: AppBar(title: Text('Stop Game')),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(16.0),
